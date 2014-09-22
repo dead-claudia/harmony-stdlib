@@ -1,4 +1,6 @@
 {
   "esnext": true,
-  "quotmark": "single"
+  "quotmark": "single",
+  "curly": true,
+  "indent": 2
 }
